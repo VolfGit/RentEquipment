@@ -85,6 +85,7 @@ class Bulldozer : Product
 {
 
     private string? productType = "Heavy";
+    private string brand = "Caterpillar";
 
 
 
